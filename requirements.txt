@@ -1,0 +1,8 @@
+numpy<2
+requests
+sympy
+ipdb
+matplotlib
+tensorboard
+tqdm
+open3d
